@@ -1,6 +1,7 @@
 
 
 
+
 CREATE OR ALTER PROCEDURE bronze.load
 AS
 BEGIN
